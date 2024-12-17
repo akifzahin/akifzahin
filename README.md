@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akif Zahin</h1>
+<h1 align="center">Hey there, I'm Akif Zahin.</h1>
 <h3 align="center">an undergrad student from Bangladesh 🇧🇩 looking to learn, create and collaborate on anything that excites me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifzahin&label=Profile%20views&color=0e75b6&style=flat" alt="akifzahin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifzahin&theme=algolia" alt="akifzahin" /></a> </p>
 
-
-- 🌱 I’m currently learning **The Odin Project**
-- 💬 Ask me about **Java, C++, Javascript, Python**
-- 📫 How to reach me **akifzahin@gmail.com**
-- ⚡ Fun fact **You will never see me not talk about music or philosophy**
+- 🌱 I’m currently learning - **The Odin Project**
+- 💬 Ask me about - **Java, C++, Javascript, Python**
+- 📫 How to reach me - **akifzahin@gmail.com**
+- ⚡ Fun fact - **You will never see me not talk about music or philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +25,11 @@
 ![akifzahin's Stats](https://github-readme-stats.vercel.app/api?username=akifzahin&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
 ![akifzahin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akifzahin&theme=algolia&hide_border=true)![akifzahin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akifzahin&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
+
+
+<h2 align="center">Check out my Github Wrapped 2024!</h2>
+
+
+
+![GitHub Wrapped 2024](github-wrapped.png)
