@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning - **The Odin Project**
 - 💬 Ask me about - **Java, C++, Javascript, Python**
 - 📫 How to reach me - **akifzahin@gmail.com**
-- ⚡ Fun fact - **You will never see me not talk about music or philosophy**
+- ⚡ Fun fact - **Crazy about music and philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
