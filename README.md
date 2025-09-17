@@ -27,9 +27,9 @@
 ![akifzahin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akifzahin&theme=algolia&hide_border=true)![akifzahin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akifzahin&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
-
+<!-- 
 <h2 align="center">Check out my Github Wrapped 2024!</h2>
 
 
 
-<!-- ![GitHub Wrapped 2024](github-wrapped.png) -->
+![GitHub Wrapped 2024](github-wrapped.png) -->
