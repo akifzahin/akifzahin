@@ -32,4 +32,4 @@
 
 
 
-![GitHub Wrapped 2024](github-wrapped.png)
+<!-- ![GitHub Wrapped 2024](github-wrapped.png) -->
