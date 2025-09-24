@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifzahin&theme=algolia" alt="akifzahin" /></a> </p>
 
-- 🌱 I’m currently learning - **The Odin Project**
+- 🌱 I’m currently learning - **Full Stack Development** and **Deep Learning**
 - 💬 Ask me about - **Java, C++, Javascript, Python**
 - 📫 How to reach me - **akifzahin@gmail.com**
 - ⚡ Fun fact - **Crazy about music and philosophy**
