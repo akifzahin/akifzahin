@@ -1,15 +1,13 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=42&pause=1000&color=E6E6FA&width=900&lines=Hey+there,+I%27m+Akif+Zahin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=42&pause=1000&color=E6E6FA&width=900&height=70&lines=Hey+there,+I%27m+Akif+Zahin" alt="Heading SVG" />
   </a>
-</p>
-
-
-<p align="center">
+  <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=28&pause=1000&color=ADD8E6&width=900&lines=Fascinated+with+AI+and+Game+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=28&pause=1000&color=ADD8E6&width=900&height=50&lines=Fascinated+with+AI+and+Game+Dev" alt="Subheading SVG" />
   </a>
 </p>
+
 
 
 
