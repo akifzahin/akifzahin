@@ -1,11 +1,12 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=48&pause=1000&color=000000&width=900&lines=Hey+there,+I%27m+Akif+Zahin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=38&pause=1000&color=00F7FF&width=900&lines=Hey+there,+I%27m+Akif+Zahin" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=28&pause=1000&color=555555&width=900&lines=an+undergrad+student+from+Bangladesh+🇧🇩;looking+to+learn,+create+and+collaborate+on+anything+that+excites+me" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=28&pause=1000&color=C0C0C0&width=900&lines=an+undergrad+student+from+Bangladesh+🇧🇩;looking+to+learn,+create+and+collaborate+on+anything+that+excites+me" alt="Typing SVG" />
   </a>
 </p>
 
