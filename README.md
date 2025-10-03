@@ -1,12 +1,13 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=42&pause=1000&color=E6E6FA&width=900&height=70&lines=Hey+there,+I%27m+Akif+Zahin" alt="Heading SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=42&pause=1000&color=90EE90&width=900&height=70&center=true&lines=Hey+there,+I'm+Akif+Zahin" alt="Heading SVG" />
   </a>
   <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=28&pause=1000&color=ADD8E6&width=900&height=50&lines=Fascinated+with+AI+and+Game+Dev" alt="Subheading SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=28&pause=1000&color=ADD8E6&width=900&height=50&center=true&lines=Currently+learning+AI+and+Game+Dev" alt="Subheading SVG" />
   </a>
 </p>
+
 
 
 
