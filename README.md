@@ -1,14 +1,16 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=38&pause=1000&color=00F7FF&width=900&lines=Hey+there,+I%27m+Akif+Zahin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=42&pause=1000&color=E6E6FA&width=900&lines=Hey+there,+I%27m+Akif+Zahin" alt="Typing SVG" />
   </a>
 </p>
 
+
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=28&pause=1000&color=C0C0C0&width=900&lines=an+undergrad+student+from+Bangladesh+🇧🇩;looking+to+learn,+create+and+collaborate+on+anything+that+excites+me" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=28&pause=1000&color=ADD8E6&width=900&lines=Fascinated+with+AI+and+Game+Dev" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifzahin&label=Profile%20views&color=0e75b6&style=flat" alt="akifzahin" /> </p>
