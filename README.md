@@ -14,11 +14,6 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifzahin&theme=algolia" alt="akifzahin" /></a> </p>-->
 
-- 🌱 I’m currently learning - **Full Stack Development** and **Deep Learning**
-- 💬 Ask me about - **Java, C++, Javascript, Python**
-- 📫 How to reach me - **akifzahin@gmail.com**
-- ⚡ Fun fact - **Passionate about music, philosophy and cats 🐈**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akifzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akifzahin" height="30" width="40" /></a>
