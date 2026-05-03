@@ -16,13 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akifzahin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akifzahin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akifzahin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifzahin" height="30" width="40" /></a>
-<a href="https://fb.com/zahinakif25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahinakif25" height="30" width="40" /></a>
-<a href="https://instagram.com/akifzahin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akifzahin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zahinakif25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zahinakif25" height="30" width="40" /></a>
+<a href="https://twitter.com/akifzahin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akifzahin" height="30" width="40" /></a><a href="https://linkedin.com/in/akifzahin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifzahin" height="30" width="40" /></a><a href="https://fb.com/zahinakif25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahinakif25" height="30" width="40" /></a><a href="https://instagram.com/akifzahin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akifzahin" height="30" width="40" /></a><a href="https://www.leetcode.com/zahinakif25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zahinakif25" height="30" width="40" /></a>
 </p>
-
 
 ![akifzahin's Stats](https://github-readme-stats.vercel.app/api?username=akifzahin&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![akifzahin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akifzahin&theme=algolia&show_icons=true&hide_border=true&layout=compact)
